@@ -3,8 +3,8 @@
 ### **_Introduction_**
 This program was made for an Arduino.
 The program tests the users reaction time.
-The setup consists of a red light bulb and a button, both connected to the arduino.
-When the red light is turned on the player tries to press to button as fast as possible.
+The setup consists of a red and a blue LED and three buttons, that are connected to the arduino.
+When the light is turned on the player tries to press on a button as fast as possible.
 After doing this 3 times, the program takes the average result and shows it to the players.
 
 ### **_Used Technologies_**
@@ -13,5 +13,5 @@ After doing this 3 times, the program takes the average result and shows it to t
 3. C++
  
 ## How to run the game
-Flash the game to your Arduino and attach a light and a button to your Arduino.
+Flash the game to your Arduino and attach lights and buttons to your Arduino (Please open check out the LizaVoros.jpg). 
 When you are ready to begin start the game.
